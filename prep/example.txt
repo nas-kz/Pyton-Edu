@@ -1,0 +1,272 @@
+10
+3.14
+(2+3j)
+hello world
+True
+[1, 2, 3]
+(1, 2, 3)
+{1, 2, 3}
+{'name': 'John', 'age': 30}
+int_var is zero
+unknown
+i is even: 0
+i is odd: 1
+i is even: 2
+i is odd: 3
+i is even: 4
+i is odd: 5
+i is even: 6
+i is odd: 7
+i is even: 8
+i is odd: 9
+for loop is finished
+while loop is finished
+i is odd: 1
+i is odd: 3
+i is odd: 5
+i is odd: 7
+i is odd: 9
+You entered: ere
+Error: division by zero
+Finally block
+i is 0
+add(i, i) is 0
+j is 0
+for for loop add(j, j) is 0
+j is 1
+for for loop add(j, j) is 2
+j is 2
+for for loop add(j, j) is 4
+j is 3
+for for loop add(j, j) is 6
+j is 4
+for for loop add(j, j) is 8
+j is 5
+for for loop add(j, j) is 10
+j is 6
+for for loop add(j, j) is 12
+j is 7
+for for loop add(j, j) is 14
+j is 8
+for for loop add(j, j) is 16
+j is 9
+for for loop add(j, j) is 18
+for loop is finished
+i is 1
+add(i, i) is 2
+j is 0
+for for loop add(j, j) is 0
+j is 1
+for for loop add(j, j) is 2
+j is 2
+for for loop add(j, j) is 4
+j is 3
+for for loop add(j, j) is 6
+j is 4
+for for loop add(j, j) is 8
+j is 5
+for for loop add(j, j) is 10
+j is 6
+for for loop add(j, j) is 12
+j is 7
+for for loop add(j, j) is 14
+j is 8
+for for loop add(j, j) is 16
+j is 9
+for for loop add(j, j) is 18
+for loop is finished
+i is 2
+add(i, i) is 4
+j is 0
+for for loop add(j, j) is 0
+j is 1
+for for loop add(j, j) is 2
+j is 2
+for for loop add(j, j) is 4
+j is 3
+for for loop add(j, j) is 6
+j is 4
+for for loop add(j, j) is 8
+j is 5
+for for loop add(j, j) is 10
+j is 6
+for for loop add(j, j) is 12
+j is 7
+for for loop add(j, j) is 14
+j is 8
+for for loop add(j, j) is 16
+j is 9
+for for loop add(j, j) is 18
+for loop is finished
+i is 3
+add(i, i) is 6
+j is 0
+for for loop add(j, j) is 0
+j is 1
+for for loop add(j, j) is 2
+j is 2
+for for loop add(j, j) is 4
+j is 3
+for for loop add(j, j) is 6
+j is 4
+for for loop add(j, j) is 8
+j is 5
+for for loop add(j, j) is 10
+j is 6
+for for loop add(j, j) is 12
+j is 7
+for for loop add(j, j) is 14
+j is 8
+for for loop add(j, j) is 16
+j is 9
+for for loop add(j, j) is 18
+for loop is finished
+i is 4
+add(i, i) is 8
+j is 0
+for for loop add(j, j) is 0
+j is 1
+for for loop add(j, j) is 2
+j is 2
+for for loop add(j, j) is 4
+j is 3
+for for loop add(j, j) is 6
+j is 4
+for for loop add(j, j) is 8
+j is 5
+for for loop add(j, j) is 10
+j is 6
+for for loop add(j, j) is 12
+j is 7
+for for loop add(j, j) is 14
+j is 8
+for for loop add(j, j) is 16
+j is 9
+for for loop add(j, j) is 18
+for loop is finished
+i is 5
+add(i, i) is 10
+j is 0
+for for loop add(j, j) is 0
+j is 1
+for for loop add(j, j) is 2
+j is 2
+for for loop add(j, j) is 4
+j is 3
+for for loop add(j, j) is 6
+j is 4
+for for loop add(j, j) is 8
+j is 5
+for for loop add(j, j) is 10
+j is 6
+for for loop add(j, j) is 12
+j is 7
+for for loop add(j, j) is 14
+j is 8
+for for loop add(j, j) is 16
+j is 9
+for for loop add(j, j) is 18
+for loop is finished
+i is 6
+add(i, i) is 12
+j is 0
+for for loop add(j, j) is 0
+j is 1
+for for loop add(j, j) is 2
+j is 2
+for for loop add(j, j) is 4
+j is 3
+for for loop add(j, j) is 6
+j is 4
+for for loop add(j, j) is 8
+j is 5
+for for loop add(j, j) is 10
+j is 6
+for for loop add(j, j) is 12
+j is 7
+for for loop add(j, j) is 14
+j is 8
+for for loop add(j, j) is 16
+j is 9
+for for loop add(j, j) is 18
+for loop is finished
+i is 7
+add(i, i) is 14
+j is 0
+for for loop add(j, j) is 0
+j is 1
+for for loop add(j, j) is 2
+j is 2
+for for loop add(j, j) is 4
+j is 3
+for for loop add(j, j) is 6
+j is 4
+for for loop add(j, j) is 8
+j is 5
+for for loop add(j, j) is 10
+j is 6
+for for loop add(j, j) is 12
+j is 7
+for for loop add(j, j) is 14
+j is 8
+for for loop add(j, j) is 16
+j is 9
+for for loop add(j, j) is 18
+for loop is finished
+i is 8
+add(i, i) is 16
+j is 0
+for for loop add(j, j) is 0
+j is 1
+for for loop add(j, j) is 2
+j is 2
+for for loop add(j, j) is 4
+j is 3
+for for loop add(j, j) is 6
+j is 4
+for for loop add(j, j) is 8
+j is 5
+for for loop add(j, j) is 10
+j is 6
+for for loop add(j, j) is 12
+j is 7
+for for loop add(j, j) is 14
+j is 8
+for for loop add(j, j) is 16
+j is 9
+for for loop add(j, j) is 18
+for loop is finished
+i is 9
+add(i, i) is 18
+j is 0
+for for loop add(j, j) is 0
+j is 1
+for for loop add(j, j) is 2
+j is 2
+for for loop add(j, j) is 4
+j is 3
+for for loop add(j, j) is 6
+j is 4
+for for loop add(j, j) is 8
+j is 5
+for for loop add(j, j) is 10
+j is 6
+for for loop add(j, j) is 12
+j is 7
+for for loop add(j, j) is 14
+j is 8
+for for loop add(j, j) is 16
+j is 9
+for for loop add(j, j) is 18
+for loop is finished
+lambda_func(1) is 2
+list_comp is [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+dict_comp is {0: 0, 1: 1, 2: 2, 3: 3, 4: 4, 5: 5, 6: 6, 7: 7, 8: 8, 9: 9}
+set_comp is {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}
+tuple_comp is <generator object <genexpr> at 0x71d930b41600>
+generator_expr is <generator object <genexpr> at 0x71d930b41840>
+generator_func is <generator object generator_func at 0x71d930b419c0>
+Hello John is 30 years old
+Hello John is 30 years old
+Hello Rex is an animal
+Hello Rex is a dog of breed Labrador
